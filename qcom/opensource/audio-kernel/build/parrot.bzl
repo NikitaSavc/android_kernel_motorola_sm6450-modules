@@ -42,6 +42,8 @@ def define_parrot_cuscoi():
             "wcd938x_slave_dlkm",
             "wsa881x_dlkm",
             "aw882xx_dlkm",
+            "fs1815_dlkm",
+            "fs1815_mngr_dlkm",
             "fs19xx_dlkm",
             "aw87xxx_dlkm",
         ],
